@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center" ><strong>Hi 👋 I'm Nikesh Chaudhari</strong></h2>
+<h2 align="center" ><strong>Hi 👋 I'm Bikash Tharu</strong></h2>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=I+am+FullStack+Developer🧑‍💻..;I+am+Open+Source..;I+am+UI/UX..;I+am+Mentoring..;I+am+Designing..;Nice+To+Meet+You+❤️....&center=true"></a></p>
